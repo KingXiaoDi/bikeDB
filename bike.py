@@ -12,12 +12,9 @@ full[['Start_Time', 'Stop_Time']] = full[['Start_Time', 'Stop_Time']].fillna(dat
 full.index += 1
 
 full.index.name = 'Ride_ID'
-data = full[['Date', 'Start_Time','Stop_Time', 'Dist', 'Notes']]
-details = full[['Ride_From', 'Ride_To']]
 
-for x in data['Date']:
-	pandas.to_datetime(data["Date"])
-
+for x in full['Date']:
+	pandas.to_datetime(full["Date"])
 
 try:
 	con.connect()
@@ -25,13 +22,7 @@ try:
 except:
 	print ("Connection failed!")
 	quit()
-#'''	
 try:
-	data.to_sql('data', con, if_exists='append')
+	full.to_sql('data', con, if_exists='append')
 except:
 	print ("Data upload failed")
-try:
-	details.to_sql('details', con, if_exists='append', index=True)
-except:
-	print ("Details upload failed")
-#	'''
