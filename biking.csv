@@ -1,195 +1,195 @@
-,Date,LocationStart,LocationEnd,Distance,TimeStart,TimeEnd,MPH
-0,2018-05-01,8528 Foxborough,PC,10.8,07:46,08:32,14.02
-1,2018-04-30,PC,8528 Foxborough,10.8,17:44,18:35,12.65
-2,2018-04-18,8528 Foxborough,Savage Library,1.5,,,
-3,2018-04-18,Savage Library,8528 Foxborough,1.5,,,
-4,2018-04-13,8528 Foxborough,PC,10.8,08:16,09:03,13.72
-5,2018-04-12,8528 Foxborough,PC,10.8,08:10,08:55,14.33
-6,2018-04-12,PC,8528 Foxborough,10.8,17:28,18:18,12.9
-7,2018-04-11,PC,8528 Foxborough,10.8,,,
-8,2018-04-11,8528 Foxborough,Savage Library,1.5,,,
-9,2018-04-11,Savage Library,8528 Foxborough,1.5,,,
-10,2018-04-06,8528 Foxborough,Route 108,10.5,,,
-11,2018-04-06,Route 108,Lake Kitt,6.5,,,
-12,2018-04-06,Lake Kitt,8528 Foxborough,12.3,,,
-13,2018-04-02,8528 Foxborough,Savage Library,1.5,,,
-14,2018-04-02,Savage Library,8528 Foxborough,1.5,,,
-15,2018-03-31,8528 Foxborough,Sportclips,8.3,,,
-16,2018-03-31,Sportclips,Lake Kitt (loop included),6.8,,,
-17,2018-03-31,Stevens Forest,8528 Foxborough,9.7,,,
-18,2018-03-29,8528 Foxborough,Tamar Dr,8.3,,,
-19,2018-03-29,Tamar Dr,8528 Foxborough,7.7,,,
-20,2018-03-25,8528 Foxborough,Savage Library,1.5,,,
-21,2018-03-25,Savage Library,8528 Foxborough,1.5,,,
-22,2018-03-16,8528 Foxborough,Savage Library,1.5,,,
-23,2018-03-16,Savage Library,8528 Foxborough,1.5,,,
-24,2018-02-15,8528 Foxborough,Ridgeville,5.9,,,
-25,2018-02-15,Jiffy Lube,Andorick,3.4,,,
-26,2017-10-28,8528 Foxborough,Linth,14.1,11:36,12:40,13.21
-27,2017-10-28,Woodberry,3830,6.3,13:40,14:10,12.55
-28,2017-10-28,3830,2020,5.4,15:05,15:25,16.27
-29,2017-10-28,2020,Woodberry,0.9,15:38,15:44,9.18
-30,2017-10-28,BWI,8528 Foxborough,12.5,16:36,17:36,12.53
-31,2017-10-27,8528 Foxborough,PC,10.8,09:38,10:22,14.66
-32,2017-10-27,PC,8528 Foxborough,10.8,16:15,17:00,14.33
-33,2017-10-27,8528 Foxborough,Savage Library,1.5,,,
-34,2017-10-27,Savage Library,8528 Foxborough,1.5,,,
-35,2017-10-25,8528 Foxborough,PC,10.8,08:20,09:04,14.66
-36,2017-10-24,PC,8528 Foxborough,10.8,17:20,18:02,15.36
-37,2017-10-20,8528 Foxborough,PC,10.8,08:24,09:09,14.33
-38,2017-10-19,PC,8528 Foxborough,10.8,16:33,17:19,14.02
-39,2017-10-18,8528 Foxborough,PC,10.8,08:09,08:58,13.16
-40,2017-10-17,PC,8528 Foxborough,10.8,17:17,18:07,12.9
-41,2017-10-14,8528 Foxborough,Savage Library,1.5,,,
-42,2017-10-14,Savage Library,8528 Foxborough,1.5,,,
-43,2017-10-13,8528 Foxborough,PC,10.8,08:43,09:29,14.02
-44,2017-10-13,PC,8528 Foxborough,7.5,18:01,18:30,15.52
-45,2017-10-10,PC,8528 Foxborough,10.8,07:59,08:47,13.44
-46,2017-10-10,8528 Foxborough,PC,10.8,17:33,18:17,14.66
-47,2017-10-04,8528 Foxborough,PC,10.8,08:11,08:58,13.72
-48,2017-10-03,PC,8528 Foxborough,10.8,17:09,17:51,15.36
-49,2017-09-29,8528 Foxborough,Savage Library,1.5,,,
-50,2017-09-29,Savage Library,8528 Foxborough,1.5,,,
-51,2017-09-29,8528 Foxborough,8528 Foxborough,12.5,,,
-52,2017-09-21,8528 Foxborough,Savage Post Office,1.5,,,
-53,2017-09-21,Savage Post Office,8528 Foxborough,1.5,,,
-54,2017-09-21,Savage Library,8528 Foxborough,1.5,,,
-55,2017-09-15,8528 Foxborough,PC,10.8,07:57,08:38,15.73
-56,2017-09-15,PC,8528 Foxborough,10.8,17:23,18:04,15.73
-57,2017-09-14,8528 Foxborough,Savage Library,1.5,,,
-58,2017-09-14,Savage Library,8528 Foxborough,1.5,,,
-59,2017-09-11,8528 Foxborough,PC,10.8,07:52,08:38,14.02
-60,2017-09-11,PC,8528 Foxborough,10.6,17:16,17:59,14.73
-61,2017-09-09,8528 Foxborough,Grist Mill,14.6,17:00,,
-62,2017-09-09,Grist Mill,8528 Foxborough,15.5,,19:25,12.44
-63,2017-08-31,8528 Foxborough,PC,10.8,07:46,08:34,13.44
-64,2017-08-31,PC,8528 Foxborough,10.8,17:04,17:52,13.44
-65,2017-08-26,8528 Foxborough,Sport Clips,8.2,,,
-66,2017-08-26,Sport Clips,8528 Foxborough,8.2,,,
-67,2017-08-26,8528 Foxborough,Savage Library,1.5,,,
-68,2017-08-26,Savage Library,8528 Foxborough,1.5,,,
-69,2017-07-30,8528 Foxborough,8528 Foxborough,20.5,,,
-70,2017-07-26,8528 Foxborough,PC,10.8,07:32,08:15,15.0
-71,2017-07-26,PC,8528 Foxborough,10.8,,,
-72,2017-07-25,8528 Foxborough,Savage Library,1.5,,,
-73,2017-07-25,Savage Library,8528 Foxborough,1.5,,,
-74,2017-06-28,8528 Foxborough,Savage Library,1.5,,,
-75,2017-06-28,Savage Library,8528 Foxborough,1.5,,,
-76,2017-06-27,8528 Foxborough,PC,10.8,06:59,07:41,15.36
-77,2017-06-27,PC,8528 Foxborough,10.8,,,
-78,2017-06-20,8528 Foxborough,Savage Library,1.5,,,
-79,2017-06-20,Savage Library,8528 Foxborough,1.5,,,
-80,2017-06-09,8528 Foxborough,PC,10.8,06:41,07:23,15.36
-81,2017-06-09,PC,8528 Foxborough,10.8,,,
-82,2017-06-06,8528 Foxborough,PC,10.8,06:50,07:32,15.36
-83,2017-06-06,PC,8528 Foxborough,10.8,16:13,16:55,15.36
-84,2017-06-03,8528 Foxborough,Sandy Spring Clarksville,12.2,17:45,18:45,12.18
-85,2017-06-03,Sandy Spring Clarksville,8528 Foxborough,19.0,18:45,19:55,16.28
-86,2017-05-28,8528 Foxborough,Linthicum LR,14.1,12:29,13:18,17.22
-87,2017-05-28,Woodberry LR,3718,6.4,,,
-88,2017-05-28,3718,Woodberry LR,6.2,,,
-89,2017-05-28,8528 Foxborough,8528 Foxborough,14.1,18:09,19:05,15.06
-90,2017-05-26,8528 Foxborough,8528 Foxborough,22.3,,,
-91,2017-05-23,8528 Foxborough,PC,3.7,,,
-92,2017-05-23,PC,8528 Foxborough,10.8,,,
-93,2017-05-22,8528 Foxborough,Savage Library,1.5,,,
-94,2017-05-22,Savage Library,8528 Foxborough,1.5,,,
-95,2017-05-20,8528 Foxborough,Rock Creek Pool,24.3,,,
-96,2017-05-20,City Bikes,DC,12.93,,,
-97,2017-05-20,DC,Union Station,2.9,,,
-98,2017-05-20,Union Station,8528 Foxborough,25.78,,,
-99,2017-05-16,8528 Foxborough,PC,10.8,06:47,07:33,14.02
-100,2017-05-16,PC,8528 Foxborough,10.8,16:10,16:56,14.02
-101,2017-05-14,8528 Foxborough,Savage Library,1.5,,,
-102,2017-05-14,Savage Library,8528 Foxborough,1.5,,,
-103,2017-05-09,8528 Foxborough,PC,10.8,06:59,07:44,14.33
-104,2017-05-09,PC,8528 Foxborough,10.8,16:17,17:04,13.72
-105,2017-05-04,8528 Foxborough,PC,10.8,06:46,07:35,13.16
-106,2017-05-03,8528 Foxborough,PC,10.8,07:08,07:57,13.16
-107,2017-05-03,PC,8528 Foxborough,10.8,16:43,17:31,13.44
-108,2017-05-02,PC,8528 Foxborough,10.8,16:13,17:02,13.16
-109,2017-05-01,8528 Foxborough,PC,10.8,06:49,07:34,14.33
-110,2017-05-01,PC,8528 Foxborough,10.8,16:11,16:53,15.36
-111,2017-04-30,8528 Foxborough,Savage Library,1.5,,,
-112,2017-04-30,Savage Library,8528 Foxborough,1.5,,,
-113,2017-04-26,8528 Foxborough,PC,10.8,06:47,07:31,14.66
-114,2017-04-26,PC,8528 Foxborough,10.8,,,
-115,2017-04-23,8528 Foxborough,8528 Foxborough,39.6,14:30,17:30,13.21
-116,2017-04-21,8528 Foxborough,PC,10.8,06:54,07:43,13.16
-117,2017-04-20,PC,8528 Foxborough,10.8,15:58,16:41,15.0
-118,2017-04-19,8528 Foxborough,PC,10.8,06:50,07:34,14.66
-119,2017-04-19,PC,8528 Foxborough,10.8,16:08,16:52,14.66
-120,2017-04-17,8528 Foxborough,Savage Library,1.5,,,
-121,2017-04-17,Savage Library,8528 Foxborough,1.5,,,
-122,2017-04-13,8528 Foxborough,PC,10.8,06:50,07:34,14.66
-123,2017-04-12,PC,8528 Foxborough,10.8,16:02,17:02,10.75
-124,2017-04-11,8528 Foxborough,PC,10.8,06:50,07:34,14.66
-125,2017-04-11,PC,8528 Foxborough,10.8,16:12,17:00,13.44
-126,2017-04-11,8528 Foxborough,Savage Library,1.5,,,
-127,2017-04-11,Savage Library,8528 Foxborough,1.5,,,
-128,2017-04-10,8528 Foxborough,PC,10.8,06:50,07:38,13.44
-129,2017-04-10,PC,8528 Foxborough,10.8,16:15,16:58,15.0
-130,2017-03-21,8528 Foxborough,Lake Elkhorn,5.7,,,
-131,2017-03-21,Lake Elkhorn,8528 Foxborough,7.4,,,
-132,2017-03-09,8528 Foxborough,PC,10.8,06:46,07:38,12.4
-133,2017-03-09,PC,8528 Foxborough,10.8,16:46,17:28,15.36
-134,2017-03-07,8528 Foxborough,PC,10.8,06:17,07:04,13.72
-135,2017-03-07,PC,8528 Foxborough,10.8,15:46,16:38,12.4
-136,2017-02-24,8528 Foxborough,PC,10.8,06:14,06:59,14.33
-137,2017-02-24,PC,8528 Foxborough,10.8,15:53,16:40,13.72
-138,2017-02-23,8528 Foxborough,Laurel TD Bank,6.4,,,
-139,2017-02-23,Laurel TD Bank,Laurel WF Bank,0.7,,,
-140,2017-02-23,Laurel WF Bank,Laurel M&T Bank,0.3,,,
-141,2017-02-23,Laurel M&T Bank,8528 Foxborough,5.6,,,
-142,2017-02-19,8528 Foxborough,Savage Library,1.6,,,
-143,2017-02-19,Savage Library,8528 Foxborough,1.6,,,
-144,2017-02-19,8528 Foxborough,Lake Kilt,10.7,,,
-145,2017-02-19,Lake Kilt,8528 Foxborough,9.6,,,
-146,2017-02-18,8528 Foxborough,Harris Teeter,5.2,,,
-147,2017-02-18,Harris Teeter,SportClips,4.7,,,
-148,2017-02-18,SportClips,8528 Foxborough,8.1,13:32,14:08,13.51
-149,2017-02-08,8528 Foxborough,PC,10.8,06:11,06:59,13.44
-150,2017-02-08,PC,8528 Foxborough,10.8,16:07,16:59,12.4
-151,2016-10-25,8528 Foxborough,PC,10.8,06:20,07:04,14.66
-152,2016-10-25,PC,8528 Foxborough,10.8,04:18,05:08,12.9
-153,2016-10-25,8528 Foxborough,Savage Library,1.5,,,
-154,2016-10-25,Savage Library,8528 Foxborough,1.5,,,
-155,2016-10-22,8528 Foxborough,PC,10.8,07:02,07:43,15.73
-156,2016-10-22,PC,8528 Foxborough,10.8,16:56,17:48,12.4
-157,2016-10-16,2020,8528 Foxborough,0.8,,,
-158,2016-10-16,8528 Foxborough,2020,0.8,,,
-159,2016-10-16,2020,Jackson,10.4,,,
-160,2016-10-16,Jackson,8528 Foxborough,8.9,,,
-161,2016-10-08,8528 Foxborough,Lake Elkhorn,5.7,,,
-162,2016-10-08,Lake Elkhorn,8528 Foxborough,7.4,,,
-163,2016-10-06,8528 Foxborough,PC,10.8,06:19,07:08,13.16
-164,2016-10-06,PC,8528 Foxborough,10.8,16:19,17:04,14.33
-165,2016-10-04,8528 Foxborough,PC,10.8,06:18,07:04,14.02
-166,2016-10-04,PC,8528 Foxborough,10.8,16:10,16:59,13.16
-167,2016-10-03,8528 Foxborough,Savage Library,1.5,,,
-168,2016-10-03,Savage Library,8528 Foxborough,1.5,,,
-169,2016-10-03,8528 Foxborough,Columbia Mall,11.9,,,
-170,2016-10-03,Columbia Mall,8528 Foxborough,8.3,,,
-171,2016-09-24,8528 Foxborough,Savage Library,1.5,,,
-172,2016-09-24,Savage Library,8528 Foxborough,1.5,,,
-173,2016-09-24,8528 Foxborough,Grist Mill Bridge,14.5,,,
-174,2016-09-24,Grist Mill Bridge,8528 Foxborough,15.6,,,
-175,2016-09-21,8528 Foxborough,PC,10.8,,,
-176,2016-09-21,PC,8528 Foxborough,10.8,,,
-177,2016-09-20,8528 Foxborough,Savage Library,1.5,,,
-178,2016-09-20,Savage Library,8528 Foxborough,1.5,,,
-179,2016-09-19,Warren's,8528 Foxborough,28.9,,,
-180,2016-09-18,8528 Foxborough,Lake Elkhorn,7.4,,,
-181,2016-09-18,Lake Elkhorn,8528 Foxborough,5.6,,,
-182,2016-09-16,8528 Foxborough,Jackson Pond,9.3,,,
-183,2016-09-16,Jackson Pond,8528 Foxborough,9.3,,,
-184,2016-09-12,8528 Foxborough,Simmie's,8.7,,,
-185,2016-09-12,Simmie's,Laurel WF Bank,4.5,,,
-186,2016-09-12,Laurel WF Bank,8528 Foxborough,10.2,,,
-187,2016-09-06,8528 Foxborough,Savage Library,1.5,,,
-188,2016-09-06,Savage Library,8528 Foxborough,1.5,,,
-189,2016-09-02,8528 Foxborough,Linthicum Light Rail,14.3,,,
-190,2016-09-02,Woodberry Light Rail,Hopkins Barnes & Noble,2.4,,,
-191,2016-09-02,Hopkins Barnes & Noble,Quail Run,10.7,,,
-192,2016-09-02,Quail Run,Hopkins Barnes & Noble,10.9,,,
-193,2016-09-02,Hopkins Barnes & Noble,Woodberry Light Rail,2.3,,,
+,Date,LocationStart,LocationEnd,Distance,TimeStart,TimeEnd,Unnamed: 7,Unnamed: 8
+0,2018-05-01,8528 Foxborough,PC,10.75,07:46,08:32,,
+1,2018-04-30,PC,8528 Foxborough,10.75,17:44,18:35,,
+2,2018-04-18,8528 Foxborough,Savage Library,1.55,,,,
+3,2018-04-18,Savage Library,8528 Foxborough,1.55,,,,
+4,2018-04-13,8528 Foxborough,PC,10.75,08:16,09:03,,
+5,2018-04-12,8528 Foxborough,PC,10.75,08:10,08:55,,
+6,2018-04-12,PC,8528 Foxborough,10.75,17:28,18:18,,
+7,2018-04-11,PC,8528 Foxborough,10.75,,,,
+8,2018-04-11,8528 Foxborough,Savage Library,1.55,,,,
+9,2018-04-11,Savage Library,8528 Foxborough,1.55,,,,
+10,2018-04-06,8528 Foxborough,Route 108,10.4579,,,,
+11,2018-04-06,Route 108,Lake Kitt,6.5062,6.5,,,
+12,2018-04-06,Lake Kitt,8528 Foxborough,12.3169,12.3,,,
+13,2018-04-02,8528 Foxborough,Savage Library,1.55,,,,
+14,2018-04-02,Savage Library,8528 Foxborough,1.55,,,,
+15,2018-03-31,8528 Foxborough,Sportclips,8.2965,,,,
+16,2018-03-31,Sportclips,Lake Kitt (loop included),6.8114,,,,
+17,2018-03-31,Stevens Forest,8528 Foxborough,9.7205,,,,
+18,2018-03-29,8528 Foxborough,Tamar Dr,8.2581,,,,
+19,2018-03-29,Tamar Dr,8528 Foxborough,7.6582,,,,
+20,2018-03-25,8528 Foxborough,Savage Library,1.55,,,,
+21,2018-03-25,Savage Library,8528 Foxborough,1.55,,,,
+22,2018-03-16,8528 Foxborough,Savage Library,1.55,,,,
+23,2018-03-16,Savage Library,8528 Foxborough,1.55,,,,
+24,2018-02-15,8528 Foxborough,Ridgeville,5.9,,,,
+25,2018-02-15,Jiffy Lube,Andorick,3.4,,,,
+26,2017-10-28,8528 Foxborough,Linth,14.087,11:36,12:40,,
+27,2017-10-28,Woodberry,3830,6.276,13:40,14:10,,
+28,2017-10-28,3830,2020,5.422000000000001,15:05,15:25,,
+29,2017-10-28,2020,Woodberry,0.9179999999999999,15:38,15:44,,
+30,2017-10-28,BWI,8528 Foxborough,12.530999999999999,16:36,17:36,,
+31,2017-10-27,8528 Foxborough,PC,10.75,09:38,10:22,,
+32,2017-10-27,PC,8528 Foxborough,10.75,16:15,17:00,,
+33,2017-10-27,8528 Foxborough,Savage Library,1.55,,,,
+34,2017-10-27,Savage Library,8528 Foxborough,1.55,,,,
+35,2017-10-25,8528 Foxborough,PC,10.75,08:20,09:04,,
+36,2017-10-24,PC,8528 Foxborough,10.75,17:20,18:02,,
+37,2017-10-20,8528 Foxborough,PC,10.75,08:24,09:09,,
+38,2017-10-19,PC,8528 Foxborough,10.75,16:33,17:19,,
+39,2017-10-18,8528 Foxborough,PC,10.75,08:09,08:58,,
+40,2017-10-17,PC,8528 Foxborough,10.75,17:17,18:07,,
+41,2017-10-14,8528 Foxborough,Savage Library,1.55,,,,
+42,2017-10-14,Savage Library,8528 Foxborough,1.55,,,,
+43,2017-10-13,8528 Foxborough,PC,10.75,08:43,09:29,,
+44,2017-10-13,PC,8528 Foxborough,7.5,18:01,18:30,,
+45,2017-10-10,PC,8528 Foxborough,10.75,07:59,08:47,,
+46,2017-10-10,8528 Foxborough,PC,10.75,17:33,18:17,,
+47,2017-10-04,8528 Foxborough,PC,10.75,08:11,08:58,,
+48,2017-10-03,PC,8528 Foxborough,10.75,17:09,17:51,,
+49,2017-09-29,8528 Foxborough,Savage Library,1.55,,,,
+50,2017-09-29,Savage Library,8528 Foxborough,1.55,,,,
+51,2017-09-29,8528 Foxborough,8528 Foxborough,12.5341,,,,
+52,2017-09-21,8528 Foxborough,Savage Post Office,1.55,,,,
+53,2017-09-21,Savage Post Office,8528 Foxborough,1.55,,,,
+54,2017-09-21,Savage Library,8528 Foxborough,1.55,,,,
+55,2017-09-15,8528 Foxborough,PC,10.75,07:57,08:38,,
+56,2017-09-15,PC,8528 Foxborough,10.75,17:23,18:04,,
+57,2017-09-14,8528 Foxborough,Savage Library,1.55,,,,
+58,2017-09-14,Savage Library,8528 Foxborough,1.55,,,,
+59,2017-09-11,8528 Foxborough,PC,10.75,07:52,08:38,,
+60,2017-09-11,PC,8528 Foxborough,10.56,17:16,17:59,,
+61,2017-09-09,8528 Foxborough,Grist Mill,14.5765,17:00,,,
+62,2017-09-09,Grist Mill,8528 Foxborough,15.4856,,19:25,,
+63,2017-08-31,8528 Foxborough,PC,10.75,07:46,08:34,,
+64,2017-08-31,PC,8528 Foxborough,10.75,17:04,17:52,,
+65,2017-08-26,8528 Foxborough,Sport Clips,8.15,,,,
+66,2017-08-26,Sport Clips,8528 Foxborough,8.15,,,,
+67,2017-08-26,8528 Foxborough,Savage Library,1.55,,,,
+68,2017-08-26,Savage Library,8528 Foxborough,1.55,,,,
+69,2017-07-30,8528 Foxborough,8528 Foxborough,20.5,,,,
+70,2017-07-26,8528 Foxborough,PC,10.75,07:32,08:15,,
+71,2017-07-26,PC,8528 Foxborough,10.75,,,,
+72,2017-07-25,8528 Foxborough,Savage Library,1.55,,,,
+73,2017-07-25,Savage Library,8528 Foxborough,1.55,,,,
+74,2017-06-28,8528 Foxborough,Savage Library,1.55,,,,
+75,2017-06-28,Savage Library,8528 Foxborough,1.55,,,,
+76,2017-06-27,8528 Foxborough,PC,10.75,06:59,07:41,,
+77,2017-06-27,PC,8528 Foxborough,10.75,,,,
+78,2017-06-20,8528 Foxborough,Savage Library,1.55,,,,
+79,2017-06-20,Savage Library,8528 Foxborough,1.55,,,,
+80,2017-06-09,8528 Foxborough,PC,10.75,06:41,07:23,,
+81,2017-06-09,PC,8528 Foxborough,10.75,,,,
+82,2017-06-06,8528 Foxborough,PC,10.75,06:50,07:32,,
+83,2017-06-06,PC,8528 Foxborough,10.75,16:13,16:55,,
+84,2017-06-03,8528 Foxborough,Sandy Spring Clarksville,12.179,17:45,18:45,,
+85,2017-06-03,Sandy Spring Clarksville,8528 Foxborough,18.9949,18:45,19:55,,
+86,2017-05-28,8528 Foxborough,Linthicum LR,14.06,12:29,13:18,,
+87,2017-05-28,Woodberry LR,3718,6.4,,,,
+88,2017-05-28,3718,Woodberry LR,6.2324,,,,
+89,2017-05-28,8528 Foxborough,8528 Foxborough,14.06,18:09,19:05,,
+90,2017-05-26,8528 Foxborough,8528 Foxborough,22.3401,,,,
+91,2017-05-23,8528 Foxborough,PC,3.7,,,,
+92,2017-05-23,PC,8528 Foxborough,10.75,,,,
+93,2017-05-22,8528 Foxborough,Savage Library,1.55,,,,
+94,2017-05-22,Savage Library,8528 Foxborough,1.55,,,,
+95,2017-05-20,8528 Foxborough,Rock Creek Pool,24.25,,,,
+96,2017-05-20,City Bikes,DC,12.93,,,,
+97,2017-05-20,DC,Union Station,2.9,,,,
+98,2017-05-20,Union Station,8528 Foxborough,25.78,,,,
+99,2017-05-16,8528 Foxborough,PC,10.75,06:47,07:33,,
+100,2017-05-16,PC,8528 Foxborough,10.75,16:10,16:56,,
+101,2017-05-14,8528 Foxborough,Savage Library,1.55,,,,
+102,2017-05-14,Savage Library,8528 Foxborough,1.55,,,,
+103,2017-05-09,8528 Foxborough,PC,10.75,06:59,07:44,,
+104,2017-05-09,PC,8528 Foxborough,10.75,16:17,17:04,,
+105,2017-05-04,8528 Foxborough,PC,10.75,06:46,07:35,,
+106,2017-05-03,8528 Foxborough,PC,10.75,07:08,07:57,,
+107,2017-05-03,PC,8528 Foxborough,10.75,16:43,17:31,,
+108,2017-05-02,PC,8528 Foxborough,10.75,16:13,17:02,,
+109,2017-05-01,8528 Foxborough,PC,10.75,06:49,07:34,,
+110,2017-05-01,PC,8528 Foxborough,10.75,16:11,16:53,,
+111,2017-04-30,8528 Foxborough,Savage Library,1.55,,,,
+112,2017-04-30,Savage Library,8528 Foxborough,1.55,,,,
+113,2017-04-26,8528 Foxborough,PC,10.75,06:47,07:31,,
+114,2017-04-26,PC,8528 Foxborough,10.75,,,,
+115,2017-04-23,8528 Foxborough,8528 Foxborough,39.6349,14:30,17:30,,
+116,2017-04-21,8528 Foxborough,PC,10.75,06:54,07:43,,
+117,2017-04-20,PC,8528 Foxborough,10.75,15:58,16:41,,
+118,2017-04-19,8528 Foxborough,PC,10.75,06:50,07:34,,
+119,2017-04-19,PC,8528 Foxborough,10.75,16:08,16:52,,
+120,2017-04-17,8528 Foxborough,Savage Library,1.55,,,,
+121,2017-04-17,Savage Library,8528 Foxborough,1.55,,,,
+122,2017-04-13,8528 Foxborough,PC,10.75,06:50,07:34,,
+123,2017-04-12,PC,8528 Foxborough,10.75,16:02,17:02,,
+124,2017-04-11,8528 Foxborough,PC,10.75,06:50,07:34,,
+125,2017-04-11,PC,8528 Foxborough,10.75,16:12,17:00,,
+126,2017-04-11,8528 Foxborough,Savage Library,1.55,,,,
+127,2017-04-11,Savage Library,8528 Foxborough,1.55,,,,
+128,2017-04-10,8528 Foxborough,PC,10.75,06:50,07:38,,
+129,2017-04-10,PC,8528 Foxborough,10.75,16:15,16:58,,
+130,2017-03-21,8528 Foxborough,Lake Elkhorn,5.7,,,,
+131,2017-03-21,Lake Elkhorn,8528 Foxborough,7.4,,,,
+132,2017-03-09,8528 Foxborough,PC,10.75,06:46,07:38,,
+133,2017-03-09,PC,8528 Foxborough,10.75,16:46,17:28,,
+134,2017-03-07,8528 Foxborough,PC,10.75,06:17,07:04,,
+135,2017-03-07,PC,8528 Foxborough,10.75,15:46,16:38,,
+136,2017-02-24,8528 Foxborough,PC,10.75,06:14,06:59,,
+137,2017-02-24,PC,8528 Foxborough,10.75,15:53,16:40,,
+138,2017-02-23,8528 Foxborough,Laurel TD Bank,6.4414,,,,
+139,2017-02-23,Laurel TD Bank,Laurel WF Bank,0.6955,,,,
+140,2017-02-23,Laurel WF Bank,Laurel M&T Bank,0.2978,,,,
+141,2017-02-23,Laurel M&T Bank,8528 Foxborough,5.5753,,,,
+142,2017-02-19,8528 Foxborough,Savage Library,1.55,,,,
+143,2017-02-19,Savage Library,8528 Foxborough,1.55,,,,
+144,2017-02-19,8528 Foxborough,Lake Kilt,10.7287,,,,
+145,2017-02-19,Lake Kilt,8528 Foxborough,9.6451,,,,
+146,2017-02-18,8528 Foxborough,Harris Teeter,5.2191,,,,
+147,2017-02-18,Harris Teeter,SportClips,4.6585,,,,
+148,2017-02-18,SportClips,8528 Foxborough,8.1084,13:32,14:08,,
+149,2017-02-08,8528 Foxborough,PC,10.75,06:11,06:59,,
+150,2017-02-08,PC,8528 Foxborough,10.75,16:07,16:59,,
+151,2016-10-25,8528 Foxborough,PC,10.75,06:20,07:04,,
+152,2016-10-25,PC,8528 Foxborough,10.75,04:18,05:08,,
+153,2016-10-25,8528 Foxborough,Savage Library,1.55,,,,
+154,2016-10-25,Savage Library,8528 Foxborough,1.55,,,,
+155,2016-10-22,8528 Foxborough,PC,10.75,07:02,07:43,,
+156,2016-10-22,PC,8528 Foxborough,10.75,16:56,17:48,,
+157,2016-10-16,2020,8528 Foxborough,0.75,,,,
+158,2016-10-16,8528 Foxborough,2020,0.75,,,,
+159,2016-10-16,2020,Jackson,10.37,,,,
+160,2016-10-16,Jackson,8528 Foxborough,8.85,,,,
+161,2016-10-08,8528 Foxborough,Lake Elkhorn,5.7039,,,,
+162,2016-10-08,Lake Elkhorn,8528 Foxborough,7.3835,,,,
+163,2016-10-06,8528 Foxborough,PC,10.75,06:19,07:08,,
+164,2016-10-06,PC,8528 Foxborough,10.75,16:19,17:04,,
+165,2016-10-04,8528 Foxborough,PC,10.75,06:18,07:04,,
+166,2016-10-04,PC,8528 Foxborough,10.75,16:10,16:59,,
+167,2016-10-03,8528 Foxborough,Savage Library,1.55,,,,
+168,2016-10-03,Savage Library,8528 Foxborough,1.55,,,,
+169,2016-10-03,8528 Foxborough,Columbia Mall,11.8546,,,,
+170,2016-10-03,Columbia Mall,8528 Foxborough,8.2217,,,,
+171,2016-09-24,8528 Foxborough,Savage Library,1.55,,,,
+172,2016-09-24,Savage Library,8528 Foxborough,1.55,,,,
+173,2016-09-24,8528 Foxborough,Grist Mill Bridge,14.51,,,,
+174,2016-09-24,Grist Mill Bridge,8528 Foxborough,15.57,,,,
+175,2016-09-21,8528 Foxborough,PC,10.75,,,,
+176,2016-09-21,PC,8528 Foxborough,10.75,,,,
+177,2016-09-20,8528 Foxborough,Savage Library,1.55,,,,
+178,2016-09-20,Savage Library,8528 Foxborough,1.55,,,,
+179,2016-09-19,Warren's,8528 Foxborough,28.8553,,,,
+180,2016-09-18,8528 Foxborough,Lake Elkhorn,7.4071,,,,
+181,2016-09-18,Lake Elkhorn,8528 Foxborough,5.5554,,,,
+182,2016-09-16,8528 Foxborough,Jackson Pond,9.3,,,,
+183,2016-09-16,Jackson Pond,8528 Foxborough,9.3,,,,
+184,2016-09-12,8528 Foxborough,Simmie's,8.695,,,,
+185,2016-09-12,Simmie's,Laurel WF Bank,4.5388,,,,
+186,2016-09-12,Laurel WF Bank,8528 Foxborough,10.2287,,,,
+187,2016-09-06,8528 Foxborough,Savage Library,1.55,,,,
+188,2016-09-06,Savage Library,8528 Foxborough,1.55,,,,
+189,2016-09-02,8528 Foxborough,Linthicum Light Rail,14.3,,,,
+190,2016-09-02,Woodberry Light Rail,Hopkins Barnes & Noble,2.4,,,,
+191,2016-09-02,Hopkins Barnes & Noble,Quail Run,10.7,,,,
+192,2016-09-02,Quail Run,Hopkins Barnes & Noble,10.9,,,,
+193,2016-09-02,Hopkins Barnes & Noble,Woodberry Light Rail,2.3,,,,
