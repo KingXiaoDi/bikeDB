@@ -2,18 +2,16 @@ import datetime
 import pandas
 
 class Ride():
-	def __init__(self, date):
-		self.date = date
-		
-	def setStart(self, start):
-		self.start = start
+	def __init__(self, row):
+		self.date = row['RideDate']
+		self.start = row['LocationStart']
+		self.end = row['LocationEnd']
+		self.dist = row['Distance']
+		if pandas.notnull(row['TimeStart']):
+			self.timeStart = row['TimeStart']
+		if pandas.notnull(row['TimeEnd']):
+			self.timeEnd = row['TimeEnd']
 
-	def setEnd(self, end):
-		self.end = end
-		
-	def setDist(self, dist):
-		self.dist = dist
-		
 	def getDate(self):
 		if hasattr(self, 'date'):
 			print ("Date: {}".format(self.date))
@@ -39,17 +37,8 @@ class Ride():
 			print ("Attribute 'Dist' not yet set")
 			
 	def p(self):
-		print (vars(self))
-#		print ("{}: {}".format(each, self[each]))
-		
-today = datetime.datetime.now().date()
-test = Ride(today)
-test.setStart('8528 Fox')
-test.setEnd('8528 Fox')
-test.setDist(3.0)
-test.getStart()
-test.getEnd()
-test.getDist()
+		for each in self.__dict__:
+			print ("{}: {}".format(each, self.__dict__[each]))
 
-
-test.p()
+if __name__ == "__main__":
+	pass
